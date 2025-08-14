@@ -15,6 +15,10 @@ Kursun ana başlıklarını ve mevcut ilerleme durumumu aşağıda bulabilirsini
 - [x] **Pandas:** Veri manipülasyonu ve analizi.
 - [x] **Matplotlib & Seaborn:** Veri görselleştirme.
 - [x] **İstatistik:** Temel istatistiksel kavramlar ve hipotez testleri.
+- [x] **Feature Engineering & Veri Ön İşleme:**
+    - [x] Veri Kodlama (Encoding)
+    - [x] Dengesiz Veri Kümeleriyle Çalışma (Resampling)
+    - [x] Özellik Seçimi
 - [ ] **Makine Öğrenmesi (Scikit-learn):** Sınıflandırma, regresyon ve kümeleme algoritmaları.
 
 ----
