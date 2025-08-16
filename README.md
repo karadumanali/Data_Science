@@ -15,6 +15,9 @@ Kursun ana başlıklarını ve mevcut ilerleme durumumu aşağıda bulabilirsini
 - [x] **Pandas:** Veri manipülasyonu ve analizi.
 - [x] **Matplotlib & Seaborn:** Veri görselleştirme.
 - [x] **İstatistik:** Temel istatistiksel kavramlar ve hipotez testleri.
+- [ ] **EDA Projeleri** Kaggle'deki bazı datasetler üzerine işlemler
+    - [x] Wine Quality
+    - [x] Google Play Dataset	
 - [x] **Feature Engineering & Veri Ön İşleme:**
     - [x] Veri Kodlama (Encoding)
     - [x] Dengesiz Veri Kümeleriyle Çalışma (Resampling)
