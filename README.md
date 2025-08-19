@@ -22,11 +22,10 @@ Kursun ana başlıklarını ve mevcut ilerleme durumumu aşağıda bulabilirsini
     - [x] Veri Kodlama (Encoding)
     - [x] Dengesiz Veri Kümeleriyle Çalışma (Resampling)
     - [x] Özellik Seçimi
-- [ ] **Makine Öğrenmesi (Scikit-learn):** Sınıflandırma, regresyon ve kümeleme algoritmaları.
 
 ----
 Bu depodaki kodları çalıştırmak için gerekli kütüphaneleri yüklemeniz gerekmektedir eğer yoksa.
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn 
 ```
 
